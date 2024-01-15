@@ -7,7 +7,7 @@ So here it is 🙋‍♂️.
 
 The key is to create your own custom cache policy.
 
-Implement `IOutputCachePolicy`. In the CacheRequestAsync method, resolve tenantId and create new tags based on it.
+Implement `IOutputCachePolicy`. In the `CacheRequestAsync` method, resolve tenantId and create new tags based on it.
 
 Register your policy, define tags and use it in your endpoints.
 
