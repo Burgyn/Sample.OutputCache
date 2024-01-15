@@ -1,8 +1,1 @@
 @url = https://localhost:7103
-
-GET {{url}}/weatherforecast/
-Accept: application/json
-
-###
-GET https://localhost:7103/products
-Accept: application/json
