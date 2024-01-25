@@ -17,6 +17,4 @@ You can also simply it all with creating own extension method for `IOutputCacheS
 
 Note: if you do not have `tenantId` in the path, you will need to modify `CacheVaryByRules` to use other values (e.g. header, query string, etc.)
 
-Did this post help you? [You can now buy me a coffee 😎☕️.](www.buymeacoffee.com/minomartiniak)
-
-[!["You can now buy me a beer 😎🍺."](https://raw.githubusercontent.com/Burgyn/MMLib.SwaggerForOcelot/master/demo/buymecoffee.png)](www.buymeacoffee.com/minomartiniak)
+<a href="https://www.buymeacoffee.com/minomartiniak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
