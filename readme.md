@@ -16,3 +16,7 @@ When you want to invalidate cache for tenant, call `EvictByTagAsync` with tag ba
 You can also simply it all with creating own extension method for `IOutputCacheStore` and `OutputCacheOptions`.
 
 Note: if you do not have `tenantId` in the path, you will need to modify `CacheVaryByRules` to use other values (e.g. header, query string, etc.)
+
+Did this post help you? [You can now buy me a coffee 😎☕️.](www.buymeacoffee.com/minomartiniak)
+
+[!["You can now buy me a beer 😎🍺."](https://raw.githubusercontent.com/Burgyn/MMLib.SwaggerForOcelot/master/demo/buymecoffee.png)](www.buymeacoffee.com/minomartiniak)
